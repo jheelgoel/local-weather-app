@@ -1,5 +1,5 @@
 export interface ICurrentWeatherData {
-    weather[
+    weather:[
         {
             description: string,
             icon: string
